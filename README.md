@@ -35,4 +35,3 @@ The model considers:
 2. Features are engineered (CRR, RRR, balls_left, etc.)
 3. Data is passed to trained ML pipeline
 4. Model outputs win probability
-5. UI displays insights visually
